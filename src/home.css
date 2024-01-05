@@ -1,0 +1,32 @@
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin-bottom: 80px;
+  
+}
+.bt{
+     margin: 10px;
+}
+.btn{
+     margin:20px;
+}
+@media print{
+	.hide-on-print{
+		display: none;
+	}
+}
+
+ .marquee{
+     font-size: 50px;
+     font-weight: bold;
+     color:black;
+    
+ }
+.upbatch{
+    background-color: rgb(0, 110, 255);
+    height: 36px;
+    border-radius: 7px;
+    color: white;
+}

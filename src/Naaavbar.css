@@ -1,0 +1,17 @@
+.Naaavbar {
+    color: #6495ED;
+    background-color: #6495ED;
+    height: 80px;
+    display:flex;
+    justify-content: center;
+    font-size : 1.2 rem;
+    align-items:center;
+    
+
+    z-index:20;
+    position: absolute; /* Set the navbar to fixed position */
+    
+  }
+  /* .abs{
+    position: absolute;
+  } */

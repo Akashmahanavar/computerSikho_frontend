@@ -1,0 +1,42 @@
+div.gallery {
+    margin: 5px;
+    float: right; 
+    width: 550px;
+    align-self: center;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+/* 
+  .gal{
+    display : flex ;
+    justify-content: baseline;
+    align-items: center;
+
+  } */
+  .trial{
+    
+     padding-top: 100PX;
+     padding-bottom: 100px;
+
+  }
+
+  .crd{
+    padding: 100px;
+    margin: 40px;
+    border-radius: 25px 25px 25px 25px;
+    background-color: white;
+
+    
+  }

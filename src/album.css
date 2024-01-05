@@ -1,0 +1,39 @@
+.album{
+    padding: 100px;
+     /* display: flex; */
+     justify-content: center;
+     align-items: center;
+
+}
+
+.one{
+    background-color: azure;
+     height: 250px;
+     width: -50vw;
+     justify-content: center;
+     align-items: center;
+     margin: 30px;
+     background-image: url(https://cdn.pixabay.com/photo/2016/09/22/06/33/blue2-1686530_1280.jpg);
+     
+   
+     color:black;
+     
+
+}
+.one:hover{
+    /* background-color: yellow; */
+    /* background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=826&t=st=1663009766~exp=1663010366~hmac=4a0b98a40668f6f7753385a8abdc2b0cf45fca8a2db638f613f3175ff9415f25); */
+    transform:scale(1.02);
+}
+.albumOne{
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    font-size: 35px;
+}
+.albumTwo{
+       justify-content: center;
+       align-items: center;
+       font-size: 20px;
+
+}

@@ -1,0 +1,92 @@
+.login{
+     
+     height: 500px;
+     width: 100vw;
+    /* padding-left: 200px; */
+      display: flex;
+     justify-content: center;
+     align-items: center;
+     background-color: azure;
+}
+.login3{
+     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 60px;
+    
+}
+
+.login1{
+     
+    height: 300px;
+    width: 0vw;
+   /* padding-left: 200px; */
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.enquiry{
+    padding-top: 0px;
+    height: 1000px;
+    width: 100vw;
+   /* padding-left: 200px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.frm{
+    padding-top: 0px;
+    width: 500px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card1{
+    margin-top: -130px;
+    margin-left: -100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+  
+}
+
+.contain{
+    height: 150vh;
+
+}
+
+.recruiter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:120vw;
+    margin:20px;
+
+}
+
+.coursedisp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height:130vh;
+    margin:20px;
+}
+.vidcenter{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.iframecenter{
+    margin: 30px;
+    border-radius: 20px;
+}
+

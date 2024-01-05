@@ -1,0 +1,25 @@
+.albumpic{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    padding-left: 60px;
+}
+
+
+.imagespan{
+    /* margin: 10px; */
+    
+    
+    /* padding: 10px; */
+    /* margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px; */
+}
+
+.imagesingle{
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+}
+
